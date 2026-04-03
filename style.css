@@ -1,0 +1,22 @@
+/* style.css - auto-loaded by Slidev */
+
+.mirror-line {
+  width: 2px;
+  height: 64px;
+  background: repeating-linear-gradient(
+    to bottom,
+    #6b7280 0px,
+    #6b7280 6px,
+    transparent 6px,
+    transparent 12px
+  );
+  transform-origin: top center;
+}
+
+.tag-builder span {
+  display: inline-block;
+}
+
+.click-label {
+  transition: opacity 200ms ease;
+}
