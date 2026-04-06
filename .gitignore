@@ -1,5 +1,7 @@
+dist/
+node_modules/
+
 .bedrock.env
 .env
 .*.env
 .claude
-node_modules/
